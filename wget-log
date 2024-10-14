@@ -1,0 +1,40 @@
+--2024-10-14 19:38:16--  http://www.atarimania.com/roms/Roms.rar
+Resolving www.atarimania.com (www.atarimania.com)... 212.83.163.6
+Connecting to www.atarimania.com (www.atarimania.com)|212.83.163.6|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.atarimania.com/roms/Roms.rar [following]
+--2024-10-14 19:38:19--  https://www.atarimania.com/roms/Roms.rar
+Connecting to www.atarimania.com (www.atarimania.com)|212.83.163.6|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 19612325 (19M) [application/octet-stream]
+Saving to: ‘Roms.rar’
+
+Roms.rar                     2%[                                        ] 399.72K  --.-KB/s    eta 13h 24mRoms.rar                     2%[                                        ] 399.72K  --.-KB/s    in 17m 9s  
+
+2024-10-14 19:55:36 (398 B/s) - Read error at byte 409318/19612325 (Operation timed out). Retrying.
+
+--2024-10-14 19:55:37--  (try: 2)  https://www.atarimania.com/roms/Roms.rar
+Connecting to www.atarimania.com (www.atarimania.com)|212.83.163.6|:443... connected.
+HTTP request sent, awaiting response... 206 Partial Content
+Length: 19612325 (19M), 19203007 (18M) remaining [application/octet-stream]
+Saving to: ‘Roms.rar’
+
+        [ skipping 350K ]
+   350K ,,,,,,,,,, ,,,,,,,,,, ,,,,,,,,,, ,,,,,,,,,, ,,,,,,,,,.  2% 2.98G 1s
+   400K .......... .......... .......... .......... ..........  2% 53.1K 5m50s
+   450K .......... .......... .......... .......... ..........  2% 79.6K 4m52s
+   500K .......... .......... .......... .......... ..........  2% 60.9K 4m56s
+   550K .......... .......... .......... .......... ..........  3% 45.3K 5m24s
+   600K .......... .......... .......... .......... ..........  3% 54.0K 5m27s
+   650K .......... .......... .......... .......... ..........  3% 38.4K 5m52s
+   700K .......... .......... .......... .......... ..........  3% 33.8K 6m18s
+   750K .......... .......... .......... .......... ..........  4% 10.4K 9m11s
+   800K .......... .......... .......... .......... ..........  4%  102M 8m8s
+   850K .......... .......... .......... .......... ..........  4% 24.4K 8m33s
+   900K .......... .......... .......... .......... ..........  4% 61.2K 8m12s
+   950K .......... .......... .......... .......... ..........  5% 89.1K 7m47s
+  1000K .......... .......... .......... .......... ..........  5% 88.6K 7m26s
+  1050K .......... .......... .......... .......... ..........  5% 62.7K 7m13s
+  1100K .......... .......... .......... .......... ..........  6% 1.66M 6m44s
+  1150K .......... .......... .......... .......... ..........  6% 32.8K 6m52s
+  1200K .......... .......... .......... .......... .......
